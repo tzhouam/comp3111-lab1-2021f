@@ -1,2 +1,2 @@
 Bob 12345678
-![Image](./screenshot.jpg)
+![Image of screenshot](./screenshot.jpg)
